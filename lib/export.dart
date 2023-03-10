@@ -1,7 +1,8 @@
-export 'controller/home_controller.dart';
-export 'views/new_item.dart';
-export 'views/home.dart';
-export 'widgets/custom_app_bar.dart';
-export 'widgets/WaterControls.dart';
-export 'widgets/wave_background.dart';
+export 'Controllers/Home_Controller.dart';
+export 'Models/Water_Per_Day.dart';
 export 'init.dart';
+export 'views/Home.dart';
+export 'views/New_Item.dart';
+export 'widgets/Custom_App_Bar.dart';
+export 'widgets/Water_Controls.dart';
+export 'widgets/Wave_Background.dart';
